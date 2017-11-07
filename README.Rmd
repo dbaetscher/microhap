@@ -2,20 +2,10 @@
 title: "microhap-paper-analyses"
 author: "Diana Baetscher"
 date: "11/7/2017"
-output: 
- github_document:
-    toc: true
+output: html_document
 ---
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-
-```{r, echo = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>",
-  fig.path = "readme-figs/"
-)
-```
 
 This is an Rstudio project to accompany the paper, "Microhaplotypes provide increased power from short-read DNA sequences for relationship inference." 
 
