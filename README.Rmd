@@ -1,8 +1,9 @@
 ---
 title: "microhap-paper-analyses"
-date: `r format(Sys.time(), '%d %B, %Y')`
+author: "Diana Baetscher"
+date: "11/7/2017"
 output: 
-  github_document:
+ github_document:
     toc: true
 ---
 
@@ -38,6 +39,4 @@ All subsequent analyses start from this file.
 
 
 Included here are data processing steps and the code necessary to make each figure (Figs 1-4).
-
-
 
