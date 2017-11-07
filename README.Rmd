@@ -1,9 +1,4 @@
----
-title: "microhap-paper-analyses"
-author: "Diana Baetscher"
-date: "11/7/2017"
-output: html_document
----
+#### Microhaplotype paper analyses
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
